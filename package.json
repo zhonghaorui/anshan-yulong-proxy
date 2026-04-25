@@ -1,0 +1,17 @@
+{
+  "name": "anshan-yulong-proxy",
+  "version": "2.1.0",
+  "description": "闉嶅北娓旈殕婵€娲荤爜楠岃瘉 + GitHub API 浠ｇ悊",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
